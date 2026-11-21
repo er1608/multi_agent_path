@@ -1,0 +1,9 @@
+instance_id,solver,status,validity,runtime,cost
+sample1,CBS,solved,true,0.5,4
+sample1,ECBS,solved,true,0.3,4
+sample2,CBS,solved,true,1.0,8
+sample2,ECBS,solved,true,0.8,8
+sample3,CBS,timeout,,60,
+sample3,ECBS,solved,true,2.0,10
+sample4,CBS,invalid,false,0.1,
+sample4,ECBS,timeout,,60,
